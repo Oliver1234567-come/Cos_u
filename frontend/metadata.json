@@ -1,0 +1,7 @@
+{
+  "name": "Cos_u",
+  "description": "A minimal, AI-powered English speaking practice application.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
