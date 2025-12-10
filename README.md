@@ -63,18 +63,18 @@ Cos_u is an end-to-end **AI speaking assessment platform**, integrating real-tim
 Cos_u/
 │
 ├── backend/
-│ ├── scoring_service/ # ML models, whisper, features
-│ ├── api/ # FastAPI endpoints
-│ ├── utils/
-│ └── requirements.txt
+│   ├── scoring_service/      # ML models, whisper, features
+│   ├── api/                  # FastAPI endpoints
+│   ├── utils/
+│   └── requirements.txt
 │
 ├── frontend/
-│ ├── components/
-│ ├── pages/
-│ └── public/
+│   ├── components/
+│   ├── pages/
+│   └── public/
 │
-├── scoring_model/ # Saved ML models
-├── voice_clone/ # TTS + clone generation
+├── scoring_model/            # Saved ML models
+├── voice_clone/              # TTS + clone generation
 ├── scripts/
 └── docs/
 
